@@ -17,8 +17,9 @@ education:
 current_focus: Full Stack Development
 interests:
   - Web Development
-  - MERN Stack Projects
+  - Full Stack Projects
   - Cloud Deployment
+  - AI & ML Development 
 contact: rohanwaghmare1572004@gmail.com
 ```
 
