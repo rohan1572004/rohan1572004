@@ -19,6 +19,7 @@ interests:
   - Web Development
   - MERN Stack Projects
   - Cloud Deployment
+  - Artificial Intelligence & Machine Learning
 contact: rohanwaghmare1572004@gmail.com
 ```
 
