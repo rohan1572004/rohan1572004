@@ -1,7 +1,9 @@
-<h1 align="center">Hi there, I'm Rohan 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rohan%20Waghmare&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+</p>
 
 <p align="center">
-  Full Stack Developer | MCA Student | Building real-world Full stack projects 🚀
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Real-World+Projects;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 
 ---
@@ -9,18 +11,18 @@
 ### 🚀 About Me
 
 ```yaml
-name: Rohan Bhausaheb Waghmare
+Name: Rohan Bhausaheb Waghmare
 location: Pune, Maharashtra, India
-education:
+Education:
   - BCS at Savitribai Phule Pune University (2022-2025)
   - MCA at Vishwakarma University Pune (2025-2027, Pursuing)
-current_focus: Full Stack Development
-interests:
+Current_focus: Full Stack Development
+Interests:
   - Web Development
   - MERN Stack Projects
   - Cloud Deployment
-  - Artificial Intelligence & Machine Learning
-contact: rohanwaghmare1572004@gmail.com
+  - Artificial Intelligence & Machine Learning 
+Contact: rohanwaghmare1572004@gmail.com
 ```
 
 ---
@@ -74,11 +76,15 @@ contact: rohanwaghmare1572004@gmail.com
 
 ---
 
+### 📊 GitHub Analytics
+
+<img src="https://myreadme.vercel.app/api/embed/rohan1572004?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="GitHub Analytics" />
+
+---
+
 ### 📊 GitHub Stats
 
 ![Rohan's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=rohan1572004&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rohan1572004&layout=compact&theme=radical)
 
 ---
 
@@ -93,5 +99,7 @@ contact: rohanwaghmare1572004@gmail.com
 ![Rohan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rohan1572004&theme=react-dark)
 
 ---
+
+![Profile Views](https://komarev.com/ghpvc/?username=rohan1572004&color=blueviolet&style=flat)
 
 <p align="center">⭐️ Thanks for visiting my profile!</p>
