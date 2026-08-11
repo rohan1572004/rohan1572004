@@ -13,7 +13,7 @@ name: Rohan Bhausaheb Waghmare
 location: Pune, Maharashtra, India
 education:
   - BCS at Savitribai Phule Pune University (2022-2025)
-  - MCA at Vishwakarma University (2025-2027, Pursuing)
+  - MCA at Vishwakarma University Pune (2025-2027, Pursuing)
 current_focus: Full Stack Development
 interests:
   - Web Development
