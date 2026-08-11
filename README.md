@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Rohan 👋</h1>
 
 <p align="center">
-  Full Stack Developer | MCA Student | Building real-world MERN stack projects 🚀
+  Full Stack Developer | MCA Student | Building real-world Full stack projects 🚀
 </p>
 
 ---
