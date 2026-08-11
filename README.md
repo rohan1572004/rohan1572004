@@ -53,4 +53,16 @@ contact: rohanwaghmare1572004@gmail.com
 
 ---
 
+### 🔥 GitHub Streak
+
+![Rohan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rohan1572004&theme=radical)
+
+---
+
+### 📈 Activity Graph
+
+![Rohan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rohan1572004&theme=react-dark)
+
+---
+
 <p align="center">⭐️ Thanks for visiting my profile!</p>
