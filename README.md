@@ -47,9 +47,9 @@ contact: rohanwaghmare1572004@gmail.com
 
 ### 📊 GitHub Stats
 
-![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohan1572004&show_icons=true&theme=radical)
+![Rohan's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=rohan1572004&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohan1572004&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rohan1572004&layout=compact&theme=radical)
 
 ---
 
