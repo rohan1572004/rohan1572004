@@ -76,12 +76,6 @@ Contact: rohanwaghmare1572004@gmail.com
 
 ---
 
-### 📊 GitHub Analytics
-
-<img src="https://myreadme.vercel.app/api/embed/rohan1572004?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="GitHub Analytics" />
-
----
-
 ### 📊 GitHub Stats
 
 ![Rohan's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=rohan1572004&show_icons=true&theme=radical)
